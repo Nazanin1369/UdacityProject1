@@ -1,0 +1,11 @@
+body{
+	color: red;
+	background-color: aliceblue;
+}
+.center{
+	text-align: center;
+	margin-top: 300px;
+}
+p{
+	font-size: XX-LARGE;
+}
